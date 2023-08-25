@@ -154,17 +154,9 @@ body {
     }
 
     .apresentacao__conteudo {
-        width: auto;
+        width: 90%
     }
 
-    .apresentacao__conteudo__texto {
-        width: auto;
-    }
-
-    .apresentacao__contato {
-        width: auto;
-    }
-    
 }
 
 
