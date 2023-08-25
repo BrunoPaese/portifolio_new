@@ -154,14 +154,10 @@ body {
     }
 
     .apresentacao__conteudo {
-        width: auto;
+        width: 95%;
     }
 
-    .apresentacao__conteudo__curriculo {
-        width: auto;
-    }
-
-    .apresentacao__conteudo__texto__contato {
+    .apresentacao__contato {
         width: auto;
     }
 }
